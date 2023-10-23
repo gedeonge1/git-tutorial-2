@@ -1,2 +1,2 @@
-console.log('version 2')
-console.log('landing page updated')
+console.log('version 3')
+console.log('landing page')
