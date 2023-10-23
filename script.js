@@ -1,2 +1,2 @@
 console.log('version 2')
-console.log('landing page')
+console.log('landing page updated')
